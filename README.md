@@ -17,6 +17,7 @@ How it works:
 
 Benefits:
 •	Faster and more efficient quality control: The Smart Quality Control system can analyze images in real-time, enabling defects to be detected and addressed quickly. This reduces the need for manual inspection, which can be time-consuming and costly.
-•	Improved product quality and consistency: By identifying defects early in the production process, the Smart Quality Control system can help to improve product quality and consistency, reducing the likelihood of defects reaching the customer.
+•	Improved product quality and consistency: By identifying defects early in the production process, the Smart Quality Control system can help to improve product quality
+and consistency, reducing the likelihood of defects reaching the customer.
 •	Cost savings: By reducing the need for manual inspection, the Smart Quality Control system can help to save on labor costs. In addition, by catching defects early, it can reduce the cost of rework and waste.
 •	Data-driven insights: The system can generate data on the types and frequency of defects, which can be used to identify areas for improvement in the manufacturing process. This can help to optimize processes and reduce defects over time.
