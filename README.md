@@ -3,7 +3,7 @@ Smart Quality Control: A solution that uses AI-enabled cameras and IoT devices t
 could use machine learning algorithms to analyze images captured by cameras  throughout the manufacturing process, and automatically flag any defects or 
 anomalies. This would help to reduce the time and cost associated with manual quality control processes, and improve product quality and consistency.
 
-The VIT (Visual Transform) technology has been implemented on the casting product image data for quality inspection Kaggle dataset: 
+The VIT (Visual Transformer) technology has been implemented on the casting product image data for quality inspection Kaggle dataset: 
 https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product?datasetId=487456&sortBy=voteCount
 
 Overview: Smart Quality Control is a solution that uses AI-enabled cameras and IoT devices to monitor the manufacturing process and identify defects in real-time. The system leverages machine learning algorithms to analyze images captured by cameras throughout the manufacturing process, and automatically flag any defects or anomalies. This helps to reduce the time and cost associated with manual quality control processes, and improve product quality and consistency.
